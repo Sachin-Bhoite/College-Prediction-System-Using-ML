@@ -42,7 +42,7 @@ Output: Predicted College(s)
 
 Dataset: Past admission cutoff data
 
-## Process to make the model :-
+## 🔧 Process to make the model :-
 1. Exploratory Data Analysis
 2. Pre - Processing
 3. Data Visualization 
@@ -51,12 +51,6 @@ Dataset: Past admission cutoff data
 6. Optimizing the model
 7. check accuracy
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Fork the repository and submit a pull request.
-
-14. ### After all that we have to create the app.py app which act as a main app behind all that with the help of Flask.
-
-15. ### Then we have to create a html page for frontend and visualization.
-
-16. ### Now after all that we have to go on to render.com and deploy our app with the instructions.
+## Contributions are welcome! Fork the repository and submit a pull request.

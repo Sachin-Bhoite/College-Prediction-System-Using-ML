@@ -51,6 +51,4 @@ Dataset: Past admission cutoff data
 6. Optimizing the model
 7. check accuracy
 
-## 🤝 Contributing
-
-## Contributions are welcome! Fork the repository and submit a pull request.
+## 🤝Thank You !!
